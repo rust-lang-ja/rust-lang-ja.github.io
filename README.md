@@ -1,7 +1,8 @@
-# Rustの日本語ドキュメント（非公式）
+# Rustの日本語ドキュメント
 
 このサイトではプログラミング言語Rustの日本語ドキュメントを公開しています。
-これらは主に英語版の公式ドキュメントを有志により和訳したものです。
+これらは[英語版の公式ドキュメント](https://doc.rust-lang.org/)を和訳したものです。
+有志によって翻訳・維持されています。
 
 - **プログラミング言語Rust / The Rust Programming Language**
   * 2nd Edition（[PDFダウンロード](https://y-yu.github.io/trpl-2nd-pdf/book.pdf), [GitHubソースリポジトリ](https://github.com/hazama-yuinyan/book)）
@@ -22,8 +23,7 @@
 誤訳を見つけたときや翻訳に参加したいときなどは以下の方法にてご連絡ください。
 
 - 各文書のGitHubソースリポジトリのIssuesページ
-- rust-jp Slackチームの`#translation`チャネル
-  * [入会ページ](http://rust-jp.herokuapp.com)
+- rust-jp Slackチームの`#translation`チャネル （[入会ページ](http://rust-jp.herokuapp.com)）
 
 * * *
 
