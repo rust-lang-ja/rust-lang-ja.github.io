@@ -22,7 +22,8 @@
 誤訳を見つけたときや翻訳に参加したいときなどは以下の方法にてご連絡ください。
 
 - 各文書のGitHubソースリポジトリのIssuesページ
-- rust-jp Slackチーム （入会ページ）
+- rust-jp Slackチームの`#translation`チャネル
+  * [入会ページ](http://rust-jp.herokuapp.com)
 
 * * *
 
