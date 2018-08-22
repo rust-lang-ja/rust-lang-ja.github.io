@@ -5,12 +5,12 @@
 - **プログラミング言語Rust / The Rust Programming Language**
   * [2nd Edition][trpl2]（最新版）
     + [PDF版][trpl2-pdf]もあります
-  * 1st Edition（[Rust 1.9][trpl1-1.9]）, （[Rust 1.6][trpl1-1.6]）
+  * 1st Edition（[Rust 1.9][trpl1-1.9]）（[Rust 1.6][trpl1-1.6]）
 
 - [**Rust by Example日本語版**][rbe]
 
 - [**Rust裏本 / The Rustnomicon**][nomicon]
-  + 翻訳途中で中断しています。翻訳者募集中です
+  + 翻訳半ばで中断しています。翻訳者募集中です
 
 - [**エディションガイド / The Edition Guide**][edition-guide]
   + 翻訳中です
@@ -32,7 +32,7 @@
 
 誤訳を見つけたときや翻訳に参加したいときなどは以下の方法にてご連絡ください。
 
-- 各文書のGitHubソースリポジトリのIssuesページ（[下の一覧](#各文書のGitHubソースリポジトリ)をご覧ください）
+- 各文書のGitHubソースリポジトリのIssuesページ（[下の一覧](#各文書のgithubソースリポジトリ)をご覧ください）
 - [rust-jp Slackチーム][slack]の`#translation`チャネル （[入会ページ][slack-reg]）
 
 [slack]: https://rust-jp.slack.com
