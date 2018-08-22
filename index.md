@@ -28,7 +28,7 @@ title: "Home"
 [trpl2-pdf]: https://y-yu.github.io/trpl-2nd-pdf/book.pdf
 [trpl1-1.9]: https://doc.rust-jp.rs/the-rust-programming-language-ja/1.9/book/
 [trpl1-1.6]: https://doc.rust-jp.rs/the-rust-programming-language-ja/1.6/book/
-[rbe]: https://doc.rust-jp.rs/rust-by-example-ja/rust-by-example/
+[rbe]: https://doc.rust-jp.rs/rust-by-example-ja/
 [std-vec]: https://mosh-g.github.io/rust-lib-doc-ja/std/vec/
 [nomicon]: https://doc.rust-jp.rs/rust-nomicon-ja/
 [edition-guide]: https://doc.rust-jp.rs/edition-guide/
