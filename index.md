@@ -2,7 +2,8 @@
 title: "Home"
 ---
 
-このサイトでは[プログラミング言語Rust][rust-lang]の日本語ドキュメントを公開しています。
+このサイトでは[Rust][rust-lang]の日本語ドキュメントを公開しています。
+Rustは速度、安全性、平行性の3つのゴールにフォーカスしたシステムプログラミング言語です。
 
 - **プログラミング言語Rust / The Rust Programming Language**
   * [2nd Edition][trpl2]（最新版）
@@ -15,7 +16,7 @@ title: "Home"
   * お試しで[`Vec<T>`のみ翻訳されています][std-vec]
 
 - [**Rust裏本 / The Rustnomicon**][nomicon]
-  + 翻訳半ばで中断しています。翻訳者募集中です
+  + 全体の三割ほど翻訳済み。翻訳者募集中です
 
 - [**エディションガイド / The Edition Guide**][edition-guide]
   + 翻訳中です
@@ -34,7 +35,7 @@ title: "Home"
 [edition-guide]: https://doc.rust-jp.rs/edition-guide/
 
 
-## お問い合わせ先
+## 内容についての連絡方法
 
 誤訳を見つけたときや翻訳に参加したいときなどは以下の方法にてご連絡ください。
 
