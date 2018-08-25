@@ -8,7 +8,7 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 ## Rustの入門書
 
 - [**プログラミング言語 Rust, 2nd Edition（最新版）/ The Rust Programming Language, Second Edition**][trpl2]
-  * Rustプロジェクト公式の入門書を和訳したものです。通称「TRPL」または「The book」
+  * Rustプロジェクト公式の入門書を和訳したものです。通称「TRPL」または「the book」
   * じっくり読みたい人向けに[PDF版][trpl2-pdf]もあります
 
 - **プログラミング言語 Rust, 1st Edition / The Rust Programming Language, First Edition**
@@ -39,9 +39,9 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
   * 全体の三割ほど翻訳済み。翻訳者募集中
 
 
-## 掲載されている和訳文書について
+## 掲載されているドキュメントについて
 
-ここに掲載されているドキュメントはいずれも[英語版の公式ドキュメント](https://doc.rust-lang.org/)を和訳したものです。
+ここに掲載されている日本語ドキュメントはいずれも[英語版の公式ドキュメント](https://doc.rust-lang.org/)を和訳したものです。
 有志によって翻訳・維持されています。
 
 [rust-lang]: https://www.rust-lang.org/ja-JP/
