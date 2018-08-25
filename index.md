@@ -5,25 +5,43 @@ title: "Home"
 このサイトでは[Rust][rust-lang]の日本語ドキュメントを公開しています。
 Rustは速度、安全性、平行性の3つのゴールにフォーカスしたシステムプログラミング言語です。
 
-- **プログラミング言語Rust / The Rust Programming Language**
-  * [2nd Edition][trpl2]（最新版）
-    + [PDF版][trpl2-pdf]もあります
-  * 1st Edition（[Rust 1.9][trpl1-1.9]）（[Rust 1.6][trpl1-1.6]）
+## Rustの入門書
+
+- [**プログラミング言語 Rust, 2nd Edition（最新版）/ The Rust Programming Language, Second Edition**][trpl2]
+  * Rustプロジェクト公式の入門書を和訳したものです。通称「TRPL」または「The book」
+  * じっくり読みたい人向けに[PDF版][trpl2-pdf]もあります
+
+- **プログラミング言語 Rust, 1st Edition / The Rust Programming Language, First Edition**
+  * [Rust 1.9版][trpl1-1.9], [Rust 1.6版][trpl1-1.6]
+  * 公式の入門書の古いバージョンです
 
 - [**Rust by Example日本語版**][rbe]
+  * 動作するサンプルコードを中心に学べる入門書です
+
+
+## 各種リファレンス、ガイド
 
 - **標準ライブラリリファレンス**
   * お試しで[`Vec<T>`のみ翻訳されています][std-vec]
 
 - [**Rust APIガイドライン**][api-guidelines]
-
-- [**Rust裏本 / The Rustnomicon**][nomicon]
-  + 全体の三割ほど翻訳済み。翻訳者募集中です
+  * Rustライブラリの設計者向けに、APIのデザイン上の推奨事項がまとめられています
 
 - [**エディションガイド / The Edition Guide**][edition-guide]
-  + 翻訳中です
+  * Rustのエディション毎の新機能リストです
+  * 翻訳中
 
-これらは[英語版の公式ドキュメント](https://doc.rust-lang.org/)を和訳したものです。
+
+## Rustをさらに深く学びたい
+
+- [**Rust裏本 / The Rustnomicon**][nomicon]
+  * アンセーフなRustコードを書くにあたって必要な知識がまとめられています
+  * 全体の三割ほど翻訳済み。翻訳者募集中
+
+
+## 掲載されている和訳文書について
+
+ここに掲載されているドキュメントはいずれも[英語版の公式ドキュメント](https://doc.rust-lang.org/)を和訳したものです。
 有志によって翻訳・維持されています。
 
 [rust-lang]: https://www.rust-lang.org/ja-JP/
@@ -49,13 +67,13 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 [slack-reg]: http://rust-jp.herokuapp.com
 
 
-## 各文書のGitHubソースリポジトリ
+### 各文書のGitHubソースリポジトリ
 
 | 文書 | GitHubリポジトリ |
 |:--- |:--- |
-| プログラミング言語Rust, 2nd Edition | [hazama-yuinyan/book][gh-trpl2] |
+| プログラミング言語 Rust, 2nd Edition | [hazama-yuinyan/book][gh-trpl2] |
 | 同 PDF版 | [y-yu/trpl-2nd-pdf][gh-trpl2-pdf] |
-| プログラミング言語Rust, 1st Edition | [rust-lang-ja/the-rust-programming-language-ja][gh-trpl1] |
+| プログラミング言語 Rust, 1st Edition | [rust-lang-ja/the-rust-programming-language-ja][gh-trpl1] |
 | Rust by Example日本語版 | [rust-lang-ja/rust-by-example-ja][gh-rbe] |
 | 標準ライブラリリファレンス | [mosh-g/rust-lib-ja][gh-std] |
 | Rust APIガイドライン | [sinkuu/api-guidelines][gh-api-guidelines] |
