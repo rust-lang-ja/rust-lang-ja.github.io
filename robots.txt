@@ -1,6 +1,8 @@
 User-agent: *
 Disallow: /the-rust-programming-language-ja/1.6/
+Allow: /the-rust-programming-language-ja/1.6/book/
+Allow: /the-rust-programming-language-ja/1.6/rust.css
 Disallow: /the-rust-programming-language-ja/1.9/
-Allow: /the-rust-programming-language-ja/1.6/book/
-Allow: /the-rust-programming-language-ja/1.6/book/
+Allow: /the-rust-programming-language-ja/1.9/book/
+Allow: /the-rust-programming-language-ja/1.9/rust.css
 Sitemap: https://doc.rust-jp.rs/sitemap.xml
