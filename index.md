@@ -50,7 +50,7 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 [trpl1-1.9]: https://doc.rust-jp.rs/the-rust-programming-language-ja/1.9/book/
 [trpl1-1.6]: https://doc.rust-jp.rs/the-rust-programming-language-ja/1.6/book/
 [rbe]: https://doc.rust-jp.rs/rust-by-example-ja/
-[std-vec]: https://mosh-g.github.io/rust-lib-doc-ja/std/vec/
+[std-vec]: https://moshg.github.io/rust-lib-doc-ja/std/vec/
 [api-guidelines]: https://sinkuu.github.io/api-guidelines/
 [nomicon]: https://doc.rust-jp.rs/rust-nomicon-ja/
 [edition-guide]: https://doc.rust-jp.rs/edition-guide/
@@ -75,7 +75,7 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 | 同 PDF版 | [y-yu/trpl-2nd-pdf][gh-trpl2-pdf] |
 | プログラミング言語 Rust, 1st Edition | [rust-lang-ja/the-rust-programming-language-ja][gh-trpl1] |
 | Rust by Example日本語版 | [rust-lang-ja/rust-by-example-ja][gh-rbe] |
-| 標準ライブラリリファレンス | [mosh-g/rust-lib-ja][gh-std] |
+| 標準ライブラリリファレンス | [moshg/rust-lib-ja][gh-std] |
 | Rust APIガイドライン | [sinkuu/api-guidelines][gh-api-guidelines] |
 | Rust裏本 / The Rustnomicon | [rust-lang-ja/rust-nomicon-ja][gh-nomicon] |
 | エディションガイド | [rust-lang-ja/edition-guide][gh-edition-guide] |
@@ -85,7 +85,7 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 [gh-trpl2-pdf]: https://github.com/y-yu/trpl-2nd-pdf
 [gh-trpl1]: https://github.com/rust-lang-ja/the-rust-programming-language-ja
 [gh-rbe]: https://github.com/rust-lang-ja/rust-by-example-ja
-[gh-std]: https://github.com/mosh-g/rust-lib-ja
+[gh-std]: https://github.com/moshg/rust-lib-ja
 [gh-api-guidelines]: https://github.com/sinkuu/api-guidelines
 [gh-nomicon]: https://github.com/rust-lang-ja/rust-nomicon-ja
 [gh-edition-guide]: https://github.com/rust-lang-ja/edition-guide
