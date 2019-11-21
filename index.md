@@ -7,16 +7,19 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 
 ## Rustの入門書
 
-- [**プログラミング言語 Rust, 2nd Edition（最新版）/ The Rust Programming Language, Second Edition**][trpl2]
+- [**プログラミング言語 Rust, 2nd Edition/ The Rust Programming Language, Second Edition**][trpl2]
   * Rustプロジェクト公式の入門書を和訳したものです。通称「TRPL」または「the book」
+  * Rust 2018 Editionには**非対応**です。2018年6月ごろの英語版をベースしています
   * じっくり読みたい人向けに[PDF版][trpl2-pdf]もあります
 
 - **プログラミング言語 Rust, 1st Edition / The Rust Programming Language, First Edition**
   * [Rust 1.9版][trpl1-1.9], [Rust 1.6版][trpl1-1.6]
-  * 公式の入門書の古いバージョンです
+  * 公式の入門書の古いバージョン（2016年版）です
+  * Rust 2018 Editionには**非対応**です
 
 - [**Rust by Example日本語版**][rbe]
   * 動作するサンプルコードを中心に学べる入門書です
+  * Rust 2018 Editionには**非対応**です。2017年ごろの英語版をベースにしています
 
 
 ## 各種リファレンス、ガイド
@@ -85,7 +88,7 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 
 | 文書 | GitHubリポジトリ |
 |:--- |:--- |
-| プログラミング言語 Rust, 2nd Edition | [hazama-yuinyan/book][gh-trpl2] |
+| プログラミング言語 Rust, 2nd Edition | [rust-lang-ja/book-ja][gh-trpl2] |
 | 同 PDF版 | [y-yu/trpl-2nd-pdf][gh-trpl2-pdf] |
 | プログラミング言語 Rust, 1st Edition | [rust-lang-ja/the-rust-programming-language-ja][gh-trpl1] |
 | Rust by Example日本語版 | [rust-lang-ja/rust-by-example-ja][gh-rbe] |
@@ -97,7 +100,7 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 | Discovery | [tomoyuki-nakabayashi/discovery][gh-embedded-discovery] |
 | その他（doc.rust-jp.rs全般） | [rust-lang-ja/rust-lang-ja.github.io][gh-org] |
 
-[gh-trpl2]: https://github.com/hazama-yuinyan/book
+[gh-trpl2]: https://github.com/rust-lang-ja/book-ja
 [gh-trpl2-pdf]: https://github.com/y-yu/trpl-2nd-pdf
 [gh-trpl1]: https://github.com/rust-lang-ja/the-rust-programming-language-ja
 [gh-rbe]: https://github.com/rust-lang-ja/rust-by-example-ja
