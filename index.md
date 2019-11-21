@@ -39,6 +39,18 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
   * 全体の三割ほど翻訳済み。翻訳者募集中
 
 
+## 目的別に学びたい
+
+### 組込みプログラミング
+
+- [**組込みRust / The Embedded Rust Book**][embedded-book]
+  * ベアメタル (マイクロコントローラ) デバイスのファームウェアをRustで開発するためのガイドブック
+
+- [**Discovery**][embedded-discovery]
+  * Rustを使ったマイクロコントローラの組込みシステム入門コース
+  * STマイクロエレクトロニクス社のSTM32F3DISCOVERYボードを使用します
+
+
 ## 掲載されているドキュメントについて
 
 ここに掲載されている日本語ドキュメントはいずれも[英語版の公式ドキュメント](https://doc.rust-lang.org/)を和訳したものです。
@@ -52,8 +64,10 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 [rbe]: https://doc.rust-jp.rs/rust-by-example-ja/
 [std-vec]: https://moshg.github.io/rust-lib-doc-ja/std/vec/
 [api-guidelines]: https://sinkuu.github.io/api-guidelines/
-[nomicon]: https://doc.rust-jp.rs/rust-nomicon-ja/
 [edition-guide]: https://doc.rust-jp.rs/edition-guide/
+[nomicon]: https://doc.rust-jp.rs/rust-nomicon-ja/
+[embedded-book]: https://tomoyuki-nakabayashi.github.io/book/
+[embedded-discovery]: https://tomoyuki-nakabayashi.github.io/discovery/
 
 
 ## 内容についての連絡方法
@@ -77,8 +91,10 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 | Rust by Example日本語版 | [rust-lang-ja/rust-by-example-ja][gh-rbe] |
 | 標準ライブラリリファレンス | [moshg/rust-lib-ja][gh-std] |
 | Rust APIガイドライン | [sinkuu/api-guidelines][gh-api-guidelines] |
-| Rust裏本 / The Rustnomicon | [rust-lang-ja/rust-nomicon-ja][gh-nomicon] |
 | エディションガイド | [rust-lang-ja/edition-guide][gh-edition-guide] |
+| Rust裏本 / The Rustnomicon | [rust-lang-ja/rust-nomicon-ja][gh-nomicon] |
+| 組込みRust / The Embedded Rust Book | [tomoyuki-nakabayashi/book][gh-embedded-book] |
+| Discovery | [tomoyuki-nakabayashi/discovery][gh-embedded-discovery] |
 | その他（doc.rust-jp.rs全般） | [rust-lang-ja/rust-lang-ja.github.io][gh-org] |
 
 [gh-trpl2]: https://github.com/hazama-yuinyan/book
@@ -87,8 +103,10 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 [gh-rbe]: https://github.com/rust-lang-ja/rust-by-example-ja
 [gh-std]: https://github.com/moshg/rust-lib-ja
 [gh-api-guidelines]: https://github.com/sinkuu/api-guidelines
-[gh-nomicon]: https://github.com/rust-lang-ja/rust-nomicon-ja
 [gh-edition-guide]: https://github.com/rust-lang-ja/edition-guide
+[gh-nomicon]: https://github.com/rust-lang-ja/rust-nomicon-ja
+[gh-embedded-book]: https://github.com/tomoyuki-nakabayashi/book
+[gh-embedded-discovery]: https://github.com/tomoyuki-nakabayashi/discovery
 [gh-org]: https://github.com/rust-lang-ja/rust-lang-ja.github.io
 
 
