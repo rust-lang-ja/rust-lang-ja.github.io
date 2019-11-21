@@ -94,7 +94,7 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 
 * * *
 
-Copyright &copy; 2018 The Rust Document Writers and Translators. Licensed under
+Copyright &copy; 2018 &ndash; 2019 The Rust Document Writers and Translators. Licensed under
 the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) or
 the [MIT license](https://opensource.org/licenses/MIT), at your option.
 
