@@ -61,7 +61,7 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 
 [rust-lang]: https://www.rust-lang.org/ja-JP/
 [trpl2]: https://doc.rust-jp.rs/book/second-edition/
-[trpl2-pdf]: https://y-yu.github.io/trpl-2nd-pdf/book.pdf
+[trpl2-pdf]: https://doc.rust-jp.rs/book-ja-pdf/book.pdf
 [trpl1-1.9]: https://doc.rust-jp.rs/the-rust-programming-language-ja/1.9/book/
 [trpl1-1.6]: https://doc.rust-jp.rs/the-rust-programming-language-ja/1.6/book/
 [rbe]: https://doc.rust-jp.rs/rust-by-example-ja/
@@ -89,7 +89,7 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 | 文書 | GitHubリポジトリ |
 |:--- |:--- |
 | プログラミング言語 Rust, 2nd Edition | [rust-lang-ja/book-ja][gh-trpl2] |
-| 同 PDF版 | [y-yu/trpl-2nd-pdf][gh-trpl2-pdf] |
+| 同 PDF版 | [rust-lang-ja/book-ja-pdf][gh-trpl2-pdf] |
 | プログラミング言語 Rust, 1st Edition | [rust-lang-ja/the-rust-programming-language-ja][gh-trpl1] |
 | Rust by Example日本語版 | [rust-lang-ja/rust-by-example-ja][gh-rbe] |
 | 標準ライブラリリファレンス | [moshg/rust-lib-ja][gh-std] |
@@ -101,7 +101,7 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 | その他（doc.rust-jp.rs全般） | [rust-lang-ja/rust-lang-ja.github.io][gh-org] |
 
 [gh-trpl2]: https://github.com/rust-lang-ja/book-ja
-[gh-trpl2-pdf]: https://github.com/y-yu/trpl-2nd-pdf
+[gh-trpl2-pdf]: https://github.com/rust-lang-ja/book-ja-pdf
 [gh-trpl1]: https://github.com/rust-lang-ja/the-rust-programming-language-ja
 [gh-rbe]: https://github.com/rust-lang-ja/rust-by-example-ja
 [gh-std]: https://github.com/moshg/rust-lib-ja
