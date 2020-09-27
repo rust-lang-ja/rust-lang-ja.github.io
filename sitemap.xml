@@ -10,33 +10,23 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://doc.rust-jp.rs/book/second-edition/</loc>
+  <loc>https://doc.rust-jp.rs/book-ja/</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://doc.rust-jp.rs/rust-by-example-ja/</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://doc.rust-jp.rs/edition-guide/</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://doc.rust-jp.rs/rust-nomicon-ja/</loc>
   <changefreq>monthly</changefreq>
   <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://doc.rust-jp.rs/the-rust-programming-language-ja/1.9/book/</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>https://doc.rust-jp.rs/the-rust-programming-language-ja/1.6/book/</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.40</priority>
 </url>
 </urlset>
