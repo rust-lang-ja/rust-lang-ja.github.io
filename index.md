@@ -3,23 +3,18 @@ title: "Home"
 ---
 
 このサイトでは[Rust][rust-lang]の日本語ドキュメントを公開しています。
-Rustは速度、安全性、平行性の3つのゴールにフォーカスしたシステムプログラミング言語です。
+Rustはパフォーマンス、安全性、生産性に優れるプログラミング言語です。
 
 ## Rustの入門書
 
-- [**プログラミング言語 Rust, 2nd Edition/ The Rust Programming Language, Second Edition**][trpl2]
-  * Rustプロジェクト公式の入門書を和訳したものです。通称「TRPL」または「the book」
-  * Rust 2018 Editionには**非対応**です。2018年6月ごろの英語版をベースしています
-  * じっくり読みたい人向けに[PDF版][trpl2-pdf]もあります
-
-- **プログラミング言語 Rust, 1st Edition / The Rust Programming Language, First Edition**
-  * [Rust 1.9版][trpl1-1.9], [Rust 1.6版][trpl1-1.6]
-  * 公式の入門書の古いバージョン（2016年版）です
-  * Rust 2018 Editionには**非対応**です
+- [**プログラミング言語Rust日本語版**][trpl]
+  * Rustプロジェクト公式の入門書「The Rust Programming Language」を和訳したものです。通称「TRPL」または「the book」
+  * Rust 2018 Editionに**対応**しています。最新の英語版をベースにしていますが、一部、古いところも残っています
+  * じっくり読みたい人向けに[PDF版][trpl-pdf]もあります
 
 - [**Rust by Example日本語版**][rbe]
   * 動作するサンプルコードを中心に学べる入門書です
-  * Rust 2018 Edition**対応**です。2020年ごろの英語版をベースにしていますが、一部未翻訳です
+  * Rust 2018 Editionに**対応**しています。2020年ごろの英語版をベースにしていますが、一部未翻訳です
 
 
 ## 各種リファレンス、ガイド
@@ -30,23 +25,24 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 - [**Rust APIガイドライン**][api-guidelines]
   * Rustライブラリの設計者向けに、APIのデザイン上の推奨事項がまとめられています
 
-- [**エディションガイド / The Edition Guide**][edition-guide]
+- [**エディションガイド日本語版**][edition-guide]
   * Rustのエディション毎の新機能リストです
-  * 翻訳中
+  * 翻訳者募集中
 
 
 ## Rustをさらに深く学びたい
 
-- [**Rust裏本 / The Rustnomicon**][nomicon]
+- [**Rust裏本**][nomicon]
+  * 「The Rustnomicon」を和訳したものです
   * アンセーフなRustコードを書くにあたって必要な知識がまとめられています
-  * 全体の三割ほど翻訳済み。翻訳者募集中
 
 
 ## 目的別に学びたい
 
 ### 組込みプログラミング
 
-- [**組込みRust / The Embedded Rust Book**][embedded-book]
+- [**組込みRust**][embedded-book]
+  * 「The Embedded Rust Book」を和訳したものです
   * ベアメタル (マイクロコントローラ) デバイスのファームウェアをRustで開発するためのガイドブック
 
 - [**Discovery**][embedded-discovery]
@@ -59,11 +55,9 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 ここに掲載されている日本語ドキュメントはいずれも[英語版の公式ドキュメント](https://doc.rust-lang.org/)を和訳したものです。
 有志によって翻訳・維持されています。
 
-[rust-lang]: https://www.rust-lang.org/ja-JP/
-[trpl2]: https://doc.rust-jp.rs/book/second-edition/
-[trpl2-pdf]: https://doc.rust-jp.rs/book-ja-pdf/book.pdf
-[trpl1-1.9]: https://doc.rust-jp.rs/the-rust-programming-language-ja/1.9/book/
-[trpl1-1.6]: https://doc.rust-jp.rs/the-rust-programming-language-ja/1.6/book/
+[rust-lang]: https://www.rust-lang.org/ja/
+[trpl]: https://doc.rust-jp.rs/book-ja/
+[trpl-pdf]: https://doc.rust-jp.rs/book-ja-pdf/book.pdf
 [rbe]: https://doc.rust-jp.rs/rust-by-example-ja/
 [std-vec]: https://moshg.github.io/rust-lib-doc-ja/std/vec/
 [api-guidelines]: https://sinkuu.github.io/api-guidelines/
@@ -88,9 +82,8 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 
 | 文書 | GitHubリポジトリ |
 |:--- |:--- |
-| プログラミング言語 Rust, 2nd Edition | [rust-lang-ja/book-ja][gh-trpl2] |
-| 同 PDF版 | [rust-lang-ja/book-ja-pdf][gh-trpl2-pdf] |
-| プログラミング言語 Rust, 1st Edition | [rust-lang-ja/the-rust-programming-language-ja][gh-trpl1] |
+| プログラミング言語 Rust | [rust-lang-ja/book-ja][gh-trpl] |
+| 同 PDF版 | [rust-lang-ja/book-ja-pdf][gh-trpl-pdf] |
 | Rust by Example日本語版 | [rust-lang-ja/rust-by-example-ja][gh-rbe] |
 | 標準ライブラリリファレンス | [moshg/rust-lib-ja][gh-std] |
 | Rust APIガイドライン | [sinkuu/api-guidelines][gh-api-guidelines] |
@@ -100,9 +93,8 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 | Discovery | [tomoyuki-nakabayashi/discovery][gh-embedded-discovery] |
 | その他（doc.rust-jp.rs全般） | [rust-lang-ja/rust-lang-ja.github.io][gh-org] |
 
-[gh-trpl2]: https://github.com/rust-lang-ja/book-ja
-[gh-trpl2-pdf]: https://github.com/rust-lang-ja/book-ja-pdf
-[gh-trpl1]: https://github.com/rust-lang-ja/the-rust-programming-language-ja
+[gh-trpl]: https://github.com/rust-lang-ja/book-ja
+[gh-trpl-pdf]: https://github.com/rust-lang-ja/book-ja-pdf
 [gh-rbe]: https://github.com/rust-lang-ja/rust-by-example-ja
 [gh-std]: https://github.com/moshg/rust-lib-ja
 [gh-api-guidelines]: https://github.com/sinkuu/api-guidelines
@@ -111,12 +103,3 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 [gh-embedded-book]: https://github.com/tomoyuki-nakabayashi/book
 [gh-embedded-discovery]: https://github.com/tomoyuki-nakabayashi/discovery
 [gh-org]: https://github.com/rust-lang-ja/rust-lang-ja.github.io
-
-
-* * *
-
-Copyright &copy; 2018 &ndash; 2019 The Rust Document Writers and Translators. Licensed under
-the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) or
-the [MIT license](https://opensource.org/licenses/MIT), at your option.
-
-This file may not be copied, modified, or distributed except according to those terms.
