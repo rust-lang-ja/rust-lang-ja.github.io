@@ -39,6 +39,12 @@ Rustはパフォーマンス、安全性、生産性に優れるプログラミ�
 
 ## 目的別に学びたい
 
+### WebAssembly
+
+- [**RustとWebAssembly**][webassembly-book]
+  * 「Rust and WebAssembly」を和訳したものです
+  * RustコードからコンパイルしたWebAssembly (WASM)をブラウザで実行させるまでの過程を学べるチュートリアル
+
 ### 組込みプログラミング
 
 - [**組込みRust**][embedded-book]
@@ -63,6 +69,7 @@ Rustはパフォーマンス、安全性、生産性に優れるプログラミ�
 [api-guidelines]: https://sinkuu.github.io/api-guidelines/
 [edition-guide]: https://doc.rust-jp.rs/edition-guide/
 [nomicon]: https://doc.rust-jp.rs/rust-nomicon-ja/
+[webassembly-book]: https://moshg.github.io/rustwasm-book-ja/
 [embedded-book]: https://tomoyuki-nakabayashi.github.io/book/
 [embedded-discovery]: https://tomoyuki-nakabayashi.github.io/discovery/
 
@@ -89,6 +96,7 @@ Rustはパフォーマンス、安全性、生産性に優れるプログラミ�
 | Rust APIガイドライン | [sinkuu/api-guidelines][gh-api-guidelines] |
 | エディションガイド | [rust-lang-ja/edition-guide][gh-edition-guide] |
 | Rust裏本 / The Rustnomicon | [rust-lang-ja/rust-nomicon-ja][gh-nomicon] |
+| RustとWebAssembly / Rust and WebAssembly | [moshg/rustwasm-book-ja][gh-webassembly-book] |
 | 組込みRust / The Embedded Rust Book | [tomoyuki-nakabayashi/book][gh-embedded-book] |
 | Discovery | [tomoyuki-nakabayashi/discovery][gh-embedded-discovery] |
 | その他（doc.rust-jp.rs全般） | [rust-lang-ja/rust-lang-ja.github.io][gh-org] |
@@ -100,6 +108,7 @@ Rustはパフォーマンス、安全性、生産性に優れるプログラミ�
 [gh-api-guidelines]: https://github.com/sinkuu/api-guidelines
 [gh-edition-guide]: https://github.com/rust-lang-ja/edition-guide
 [gh-nomicon]: https://github.com/rust-lang-ja/rust-nomicon-ja
+[gh-webassembly-book]: https://github.com/moshg/rustwasm-book-ja
 [gh-embedded-book]: https://github.com/tomoyuki-nakabayashi/book
 [gh-embedded-discovery]: https://github.com/tomoyuki-nakabayashi/discovery
 [gh-org]: https://github.com/rust-lang-ja/rust-lang-ja.github.io
