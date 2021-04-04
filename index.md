@@ -20,14 +20,16 @@ Rustはパフォーマンス、安全性、生産性に優れるプログラミ�
 ## 各種リファレンス、ガイド
 
 - **標準ライブラリリファレンス**
-  * お試しで[`Vec<T>`のみ翻訳されています][std-vec]
+  * 以下のモジュールについて和訳があります
+    * [`std::vec`モジュール][std-vec]
+    * [`std::slice`モジュール][std-slice]
 
 - [**Rust APIガイドライン**][api-guidelines]
   * Rustライブラリの設計者向けに、APIのデザイン上の推奨事項がまとめられています
 
 - [**エディションガイド日本語版**][edition-guide]
   * Rustのエディション毎の新機能リストです
-  * 翻訳者募集中
+  * 翻訳中
 
 
 ## Rustをさらに深く学びたい
@@ -66,6 +68,7 @@ Rustはパフォーマンス、安全性、生産性に優れるプログラミ�
 [trpl-pdf]: https://doc.rust-jp.rs/book-ja-pdf/book.pdf
 [rbe]: https://doc.rust-jp.rs/rust-by-example-ja/
 [std-vec]: https://moshg.github.io/rust-lib-doc-ja/std/vec/
+[std-slice]: https://moshg.github.io/rust-lib-doc-ja/std/slice/
 [api-guidelines]: https://sinkuu.github.io/api-guidelines/
 [edition-guide]: https://doc.rust-jp.rs/edition-guide/
 [nomicon]: https://doc.rust-jp.rs/rust-nomicon-ja/
