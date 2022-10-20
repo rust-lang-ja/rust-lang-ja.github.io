@@ -82,10 +82,10 @@ Rustはパフォーマンス、安全性、生産性に優れるプログラミ�
 誤訳を見つけたときや翻訳に参加したいときなどは以下の方法にてご連絡ください。
 
 - 各文書のGitHubソースリポジトリのIssuesページ（[下の一覧](#各文書のgithubソースリポジトリ)をご覧ください）
-- [rust-jp Slackチーム][slack]の`#translation`チャネル （[入会ページ][slack-reg]）
+- [rust-jp Zulipチャット][zulip]の`#translation`ストリーム （[ユーザ登録][zulip-reg]）
 
-[slack]: https://rust-jp.slack.com
-[slack-reg]: http://rust-jp.herokuapp.com
+[zulip]: https://rust-lang-jp.zulipchat.com
+[zulip-reg]: https://rust-lang-jp.zulipchat.com/register
 
 
 ### 各文書のGitHubソースリポジトリ
