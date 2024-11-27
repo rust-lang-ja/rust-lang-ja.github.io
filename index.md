@@ -14,7 +14,7 @@ Rustはパフォーマンス、安全性、生産性に優れるプログラミ�
 
 - [**Rust by Example日本語版**][rbe]
   * 動作するサンプルコードを中心に学べる入門書です
-  * Rust 2018 Editionに**対応**しています。2020年ごろの英語版をベースにしていますが、一部未翻訳です
+  * Rust 2021 Editionに**対応**しています。最新の英語版に自動的に追従しますが、一部未翻訳です
 
 
 ## 各種リファレンス、ガイド
@@ -66,7 +66,7 @@ Rustはパフォーマンス、安全性、生産性に優れるプログラミ�
 [rust-lang]: https://www.rust-lang.org/ja/
 [trpl]: https://doc.rust-jp.rs/book-ja/
 [trpl-pdf]: https://doc.rust-jp.rs/book-ja-pdf/book.pdf
-[rbe]: https://doc.rust-jp.rs/rust-by-example-ja/
+[rbe]: https://doc.rust-lang.org/rust-by-example/ja/
 [std-vec]: https://moshg.github.io/rust-lib-doc-ja/std/vec/
 [std-slice]: https://moshg.github.io/rust-lib-doc-ja/std/slice/
 [api-guidelines]: https://sinkuu.github.io/api-guidelines/
@@ -94,7 +94,7 @@ Rustはパフォーマンス、安全性、生産性に優れるプログラミ�
 |:--- |:--- |
 | プログラミング言語 Rust | [rust-lang-ja/book-ja][gh-trpl] |
 | 同 PDF版 | [rust-lang-ja/book-ja-pdf][gh-trpl-pdf] |
-| Rust by Example日本語版 | [rust-lang-ja/rust-by-example-ja][gh-rbe] |
+| Rust by Example日本語版 | [rust-lang/rust-by-example][gh-rbe] |
 | 標準ライブラリリファレンス | [moshg/rust-lib-ja][gh-std] |
 | Rust APIガイドライン | [sinkuu/api-guidelines][gh-api-guidelines] |
 | エディションガイド | [rust-lang-ja/edition-guide][gh-edition-guide] |
@@ -106,7 +106,7 @@ Rustはパフォーマンス、安全性、生産性に優れるプログラミ�
 
 [gh-trpl]: https://github.com/rust-lang-ja/book-ja
 [gh-trpl-pdf]: https://github.com/rust-lang-ja/book-ja-pdf
-[gh-rbe]: https://github.com/rust-lang-ja/rust-by-example-ja
+[gh-rbe]: https://github.com/rust-lang/rust-by-example
 [gh-std]: https://github.com/moshg/rust-lib-ja
 [gh-api-guidelines]: https://github.com/sinkuu/api-guidelines
 [gh-edition-guide]: https://github.com/rust-lang-ja/edition-guide
